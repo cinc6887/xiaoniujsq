@@ -7,13 +7,13 @@
 
 ## 手机端下载
 
-**📲 安卓：** [APK 直通车下载](https://github.com/cinc6887/purejiasu/releases/download/v.2.11/purejsq-mocha-v1.0.9-202502061026.zip)  
+**📲 安卓：** [APK 直通车下载](https://aoxvpnapp.com/dl/package/android/aox-sake-v5.3.5-2410301425.apk)  
 **🍏 iOS：** [点这里](https://aoxsave.cc/zhs/iosdownload/)
 
 ## 电脑端下载
 
 🖥 **Windows：** [下载](https://aoxsave.cc/zhs/windowsdownload/)  
-**🍎 macOS：** [下载](https://aoxsave.cc/zhs/windowsdownload/)
+**🍎 macOS：** [点这里](https://aoxsave.cc/zhs/iosdownload/)
 
 ## 📩 联系方式  
 
